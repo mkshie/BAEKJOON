@@ -157,6 +157,7 @@
     <ClCompile Include="2512번(예산).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="2839번(설탕 배달)_브루트포스.cpp" />
     <ClCompile Include="3425번%28고스택%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
